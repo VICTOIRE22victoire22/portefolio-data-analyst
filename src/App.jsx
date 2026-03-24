@@ -35,7 +35,7 @@ function App() {
       <section className="hero">
         <p className="hero-tag">Portfolio développeuse web</p>
         <h1>Odile Richard</h1>
-        <h2>Développeuse Fullstack Web & Mobile</h2>
+        <h2>Développeuse Fullstack & Future Data Analyst</h2>
 
         <p className="hero-text">
           Je conçois des applications web en frontend et backend avec React,
