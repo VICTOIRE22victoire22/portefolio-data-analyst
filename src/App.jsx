@@ -61,7 +61,7 @@ function App() {
 
           <a href="mailto:leblogdeveloppeurs@gmail.com">Me contacter</a>
 
-          <a href="https://cv-one-page.netlify.app" target="_blank" rel="noreferrer">
+          <a href="https://cv-data-analyst.netlify.app" target="_blank" rel="noreferrer">
             Télécharger mon CV
           </a>
         </div>
