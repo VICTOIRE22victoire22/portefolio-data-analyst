@@ -71,21 +71,21 @@ function App() {
         <h2>À propos</h2>
 
         <p>
-          Après plusieurs années d’expérience professionnelle dans l’industrie
-          et l’administratif, j’ai choisi de me reconvertir dans le
-          développement web et web mobile.
+          Après plusieurs années d’expérience professionnelle dans l’industrie et l’administratif, 
+          j’ai choisi de me reconvertir dans le développement web et web mobile.
         </p>
 
         <p>
-          Je me forme aujourd’hui au métier de Conceptrice Développeuse
-          d’Applications et je développe des projets concrets en fullstack, de
-          l’interface utilisateur jusqu’au backend et à la base de données.
+          Je me forme aujourd’hui au métier de Conceptrice Développeuse d’Applications et 
+          j’oriente progressivement mon parcours vers l’analyse de données. Je développe 
+          des compétences en manipulation et structuration de données, en SQL, ainsi qu’en 
+          Python et en data visualisation (Power BI).
         </p>
 
         <p>
-          Je recherche des opportunités me permettant de mettre en pratique mes
-          compétences techniques, de continuer à progresser et de contribuer à
-          des projets utiles et bien conçus.
+          Je recherche une alternance en Data Analyst afin de mettre en pratique mes compétences 
+          techniques, approfondir l’analyse et le traitement des données, et contribuer à des 
+          projets utiles et orientés data.
         </p>
       </section>
 
